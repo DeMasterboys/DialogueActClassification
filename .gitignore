@@ -127,3 +127,17 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# dataset
+.DS_Store
+/Data/*
+train/
+*.gz
+ijcnlp_dailydialog/*
+*.zip
+*.csv
+*.pt
+/DELETEME
+/LSTM/EMNLP_dataset/*
+.vscode/settings.json
+results/
